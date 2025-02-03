@@ -1,4 +1,4 @@
-# Apartments rental application
+# Artworks Gallery Application
 ## Project by Kyrychenko Dmytro
 &nbsp;
 #### To run project folow commands:
